@@ -1,6 +1,7 @@
 {
   "name": "reactlab",
   "private": true,
+  "homepage": "https://hribu.github.io/Calculator-App-with-REACT/",
   "dependencies": {
     "coder": "latest",
     "nginx-conf": "^2.1.0",
@@ -31,8 +32,5 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
-  }
-  {
-    "homepage": "https://hribu.github.io/Calculator-App-with-REACT/"
   }
 }
